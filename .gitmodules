@@ -13,3 +13,13 @@
 [submodule "servicos"]
 	path = servicos
 	url = ./servicos/
+[submodule "diretivas-proj/"]
+	url = git@github.com:LucasCta/Diretivas_Angular.git
+[submodule "life-cycle/"]
+	url = git@github.com:LucasCta/LifeCycle_Angular.git
+[submodule "modulo-proj/"]
+	url = git@github.com:LucasCta/Modulos_Angular.git
+[submodule "roteamento/"]
+	url = git@github.com:LucasCta/Rotas_Angular.git
+[submodule "servicos/"]
+	url = git@github.com:LucasCta/Services_Angular.git
