@@ -1,0 +1,15 @@
+[submodule "diretivas-proj"]
+	path = diretivas-proj
+	url = ./diretivas-proj/
+[submodule "life-cycle"]
+	path = life-cycle
+	url = ./life-cycle/
+[submodule "modulo-proj"]
+	path = modulo-proj
+	url = ./modulo-proj/
+[submodule "roteamento"]
+	path = roteamento
+	url = ./roteamento/
+[submodule "servicos"]
+	path = servicos
+	url = ./servicos/
